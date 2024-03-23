@@ -1,55 +1,75 @@
 # algorithmic-trading-a-z-python
 
-## Getting Started
+## 1.- Getting Started
 
-### What is Algorithmic Trading?
+## 2.- Day Trading, Online Brokers and APIs
 
-**2 Major Aspects of Algo Trading**
+## 3.- Day Trading with OANDA
 
-- Clear Strategy/Plan
-  - Pre-programmed Rules / Algorithms
-  - Learning Algorithms (Machine Learning / AI)
-- Automated Trading
-  - Trades executed by computers not humans
-  - High-Frequency Trading (HFT)
-  - Complex strategies / algorithms
- 
+## 4.- Stocks and FOREX Trading with Interactive Brokers (IBKR)
 
-**Applications and Use Cases**
+## 5.- FOREX Day Trading with FXCM
 
-Transaction cost reduction (VWAP, TWAP, Implementation Shortfall)
-- Break down large orders into small orders to be placed over time
+## 6.- Installing Python and Jupyter Notebooks
 
-Portfolio Rebalancing
-- Rebalance portfolio constituents to target weights
+## 7.- Excursus: How to avoid and debug Coding Errors
 
-Robo Investing / Robo Advising
-- Asset Allocation, Portfolio Optimization, Portfolio Management and Rebalancing with minimal human intervention (for long-term investments)
+## 8.- API Trading with Python and Online Brokers
 
-Market Timing ("alpha-generating strategies")
-- Timing trades (long and short positions) to benefit from mispricing / market inefficiencies
-- Independent from general market trends (works in bull and bear markets)
-- Technical indicators (e.g. Moving Averages) and other Pattern Recognition Techniques (Machine Learning / AI) are used
+## 9.- Conclusion and Outlook
 
-**Overview:**
+## 10.- Pandas for Financial Data Analysis and Introduction to OOP
 
-Prerequisites:
-- Python
-- Day Trading
+## 11.- Introduction to Time Series Data in Pandas
 
-Define Strategy:
-- Technical Indicators
-- Machine Learning
+## 12.- Financial Data Analysis with Python and Pandas
 
-Test Strategy:
-- Backtesting / Forward Testing
-- Live Testing
+## 13.- Advanced Topics
 
-Implementation & Automation
+## 14.- Object Oriented Programming (OOP): Creating a Financial Analysis Class
 
-Expert Tips and Tricks
+## 15.- Defining and Testing Trading Strategies
 
-In some Countries, CFD/FOREX Trading is prohibited / Brokers not available (Japan, Korea, Russia, Turkey)
+## 16.- Defining and Backtesting SMA Strategies
 
+## 17.- Defining and Backtesting simple Momentum/Contrarian Strategies
 
+## 18.- Defining and Backtesting Mean-Reversion Strategies (Bollinger)
 
+## 19.- Trading Strategies powered by Machine Learning - Regression
+
+## 20.- Trading Strategies powered by Machine Learning - Classification
+
+## 21.- Advanced Backtesting Techniques
+
+## 22.- Real-time Implementation and Automation of Strategies
+
+## 23.- Implementation and Automation with OANDA
+
+## 24.- Implementation and Automation with IBKR
+
+## 25.- Implementation and Automation with FXCM
+
+## 26.- Cloud Deployment (AWS) | Scheduling Trading Sessions | Full Automation
+
+## 27.- Expert Tips and Tricks, Case Studies and more
+
+## 28.- Trading Hours, Spreads and Granularity - control and limit Trading Costs!
+
+## 29.- Working with two or many Strategies (Combination)
+
+## 30.- A Machine Learning-powered Strategy A-Z (DNN)
+
+## 31.- Error Handling: How to make your Trading Bot more stable and reliable
+
+## 32.- Adding Stop Loss and Take Profit to the Trading Bot
+
+## 33.- Python Crash Course
+
+## 34.- Appendix 1: Python and Finance Basics
+
+## 35.- Appendix 2: User-defined Functions
+
+## 36.- Appendix 3: Numpy, Pandas, Matplotlib and Seaborn Crash Course
+
+## 37.- What's next?
